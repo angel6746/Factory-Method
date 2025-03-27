@@ -191,7 +191,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     <option value="reparacion">Reparación</option>
                 </select>
 
-                <button type="submit">Agendar Cita</button>
+                <button type="submit">AGENDAR CITA</button>
             </form>
         </div>
     </div>
